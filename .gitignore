@@ -1,10 +1,20 @@
+# Mac and idea
+**.idea
+**.DS_Store
+
+# models
+**data/
+**.pkl
+**.hdf5
+**.h5
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[cod]
-*$py.class
+**.py[cod]
+**$py.class
 
 # C extensions
-*.so
+**.so
 
 # Distribution / packaging
 .Python
@@ -70,7 +80,7 @@ docs/_build/
 target/
 
 # Jupyter Notebook
-.ipynb_checkpoints
+**.ipynb_checkpoints
 
 # pyenv
 .python-version
